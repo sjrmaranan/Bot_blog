@@ -1,0 +1,2 @@
+class BubotBlog < ApplicationRecord
+end
